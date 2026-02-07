@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Armand Els 
-🎓 Software Engineering Student at Belgium Campus iTversity 
+🎓 Software Engineering Student at Belgium Campus iTversity. 
+💼 Seeking internship/graduate opportunities in software development 
+🌱 Passionate about sustainable AI and  IT.
 <!--
 **Armand-Els/Armand-Els** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
