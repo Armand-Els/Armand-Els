@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Armand Els 
+## Hi there 👋, I'm Armand Els </enter>
 🎓 Software Engineering Student at Belgium Campus iTversity. 
 💼 Seeking internship/graduate opportunities in software development 
 🌱 Passionate about sustainable AI and  IT.
