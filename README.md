@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋, I'm Armand Els 
+🎓 Software Engineering Student at Belgium Campus iTversity 
 <!--
 **Armand-Els/Armand-Els** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
